@@ -1,0 +1,15 @@
+C:\Users\Jose Luis\Downloads\ms-aeronaves-main\Aeronaves.Domain\bin\Debug\net5.0\Aeronaves.Domain.deps.json
+C:\Users\Jose Luis\Downloads\ms-aeronaves-main\Aeronaves.Domain\bin\Debug\net5.0\Aeronaves.Domain.dll
+C:\Users\Jose Luis\Downloads\ms-aeronaves-main\Aeronaves.Domain\bin\Debug\net5.0\Aeronaves.Domain.pdb
+C:\Users\Jose Luis\Downloads\ms-aeronaves-main\Aeronaves.Domain\bin\Debug\net5.0\ShareKernel.dll
+C:\Users\Jose Luis\Downloads\ms-aeronaves-main\Aeronaves.Domain\bin\Debug\net5.0\ShareKernel.pdb
+C:\Users\Jose Luis\Downloads\ms-aeronaves-main\Aeronaves.Domain\obj\Debug\net5.0\Aeronaves.Domain.csproj.AssemblyReference.cache
+C:\Users\Jose Luis\Downloads\ms-aeronaves-main\Aeronaves.Domain\obj\Debug\net5.0\Aeronaves.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jose Luis\Downloads\ms-aeronaves-main\Aeronaves.Domain\obj\Debug\net5.0\Aeronaves.Domain.AssemblyInfoInputs.cache
+C:\Users\Jose Luis\Downloads\ms-aeronaves-main\Aeronaves.Domain\obj\Debug\net5.0\Aeronaves.Domain.AssemblyInfo.cs
+C:\Users\Jose Luis\Downloads\ms-aeronaves-main\Aeronaves.Domain\obj\Debug\net5.0\Aeronaves.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Jose Luis\Downloads\ms-aeronaves-main\Aeronaves.Domain\obj\Debug\net5.0\Aeronaves.Domain.csproj.CopyComplete
+C:\Users\Jose Luis\Downloads\ms-aeronaves-main\Aeronaves.Domain\obj\Debug\net5.0\Aeronaves.Domain.dll
+C:\Users\Jose Luis\Downloads\ms-aeronaves-main\Aeronaves.Domain\obj\Debug\net5.0\refint\Aeronaves.Domain.dll
+C:\Users\Jose Luis\Downloads\ms-aeronaves-main\Aeronaves.Domain\obj\Debug\net5.0\Aeronaves.Domain.pdb
+C:\Users\Jose Luis\Downloads\ms-aeronaves-main\Aeronaves.Domain\obj\Debug\net5.0\ref\Aeronaves.Domain.dll
