@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>Aeronaves.Aplication</id>
+    <version>1.0.0</version>
+    <authors>Aeronaves.Aplication</authors>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework="net5.0">
+        <dependency id="Aeronaves.Domain" version="1.0.0" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="E:\Diplomado 2022\02 Diseño guiado por el Dominio y Arquitectura Limpia\03 Sesion 09.04.2022\Proyecto\ms-aeronaves-main\Aeronaves.Aplication\bin\Debug\net5.0\Aeronaves.Aplication.dll" target="lib\net5.0\Aeronaves.Aplication.dll" />
+  </files>
+</package>

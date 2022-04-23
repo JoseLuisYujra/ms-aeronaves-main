@@ -19,3 +19,24 @@ C:\Users\Jose Luis\Downloads\ms-aeronaves-main\AeroNaves.ConsolaUI\bin\Debug\net
 C:\Users\Jose Luis\Downloads\ms-aeronaves-main\AeroNaves.ConsolaUI\bin\Debug\net5.0\AeroNaves.ConsolaUI.runtimeconfig.json
 C:\Users\Jose Luis\Downloads\ms-aeronaves-main\AeroNaves.ConsolaUI\bin\Debug\net5.0\AeroNaves.ConsolaUI.runtimeconfig.dev.json
 C:\Users\Jose Luis\Downloads\ms-aeronaves-main\AeroNaves.ConsolaUI\obj\Debug\net5.0\AeroNaves.ConsolaUI.genruntimeconfig.cache
+E:\Diplomado 2022\02 Diseño guiado por el Dominio y Arquitectura Limpia\03 Sesion 09.04.2022\Proyecto\ms-aeronaves-main\AeroNaves.ConsolaUI\bin\Debug\net5.0\AeroNaves.ConsolaUI.exe
+E:\Diplomado 2022\02 Diseño guiado por el Dominio y Arquitectura Limpia\03 Sesion 09.04.2022\Proyecto\ms-aeronaves-main\AeroNaves.ConsolaUI\bin\Debug\net5.0\AeroNaves.ConsolaUI.deps.json
+E:\Diplomado 2022\02 Diseño guiado por el Dominio y Arquitectura Limpia\03 Sesion 09.04.2022\Proyecto\ms-aeronaves-main\AeroNaves.ConsolaUI\bin\Debug\net5.0\AeroNaves.ConsolaUI.runtimeconfig.json
+E:\Diplomado 2022\02 Diseño guiado por el Dominio y Arquitectura Limpia\03 Sesion 09.04.2022\Proyecto\ms-aeronaves-main\AeroNaves.ConsolaUI\bin\Debug\net5.0\AeroNaves.ConsolaUI.runtimeconfig.dev.json
+E:\Diplomado 2022\02 Diseño guiado por el Dominio y Arquitectura Limpia\03 Sesion 09.04.2022\Proyecto\ms-aeronaves-main\AeroNaves.ConsolaUI\bin\Debug\net5.0\AeroNaves.ConsolaUI.dll
+E:\Diplomado 2022\02 Diseño guiado por el Dominio y Arquitectura Limpia\03 Sesion 09.04.2022\Proyecto\ms-aeronaves-main\AeroNaves.ConsolaUI\bin\Debug\net5.0\AeroNaves.ConsolaUI.pdb
+E:\Diplomado 2022\02 Diseño guiado por el Dominio y Arquitectura Limpia\03 Sesion 09.04.2022\Proyecto\ms-aeronaves-main\AeroNaves.ConsolaUI\bin\Debug\net5.0\Aeronaves.Domain.dll
+E:\Diplomado 2022\02 Diseño guiado por el Dominio y Arquitectura Limpia\03 Sesion 09.04.2022\Proyecto\ms-aeronaves-main\AeroNaves.ConsolaUI\bin\Debug\net5.0\ShareKernel.dll
+E:\Diplomado 2022\02 Diseño guiado por el Dominio y Arquitectura Limpia\03 Sesion 09.04.2022\Proyecto\ms-aeronaves-main\AeroNaves.ConsolaUI\bin\Debug\net5.0\Aeronaves.Domain.pdb
+E:\Diplomado 2022\02 Diseño guiado por el Dominio y Arquitectura Limpia\03 Sesion 09.04.2022\Proyecto\ms-aeronaves-main\AeroNaves.ConsolaUI\bin\Debug\net5.0\ShareKernel.pdb
+E:\Diplomado 2022\02 Diseño guiado por el Dominio y Arquitectura Limpia\03 Sesion 09.04.2022\Proyecto\ms-aeronaves-main\AeroNaves.ConsolaUI\obj\Debug\net5.0\AeroNaves.ConsolaUI.csproj.AssemblyReference.cache
+E:\Diplomado 2022\02 Diseño guiado por el Dominio y Arquitectura Limpia\03 Sesion 09.04.2022\Proyecto\ms-aeronaves-main\AeroNaves.ConsolaUI\obj\Debug\net5.0\AeroNaves.ConsolaUI.GeneratedMSBuildEditorConfig.editorconfig
+E:\Diplomado 2022\02 Diseño guiado por el Dominio y Arquitectura Limpia\03 Sesion 09.04.2022\Proyecto\ms-aeronaves-main\AeroNaves.ConsolaUI\obj\Debug\net5.0\AeroNaves.ConsolaUI.AssemblyInfoInputs.cache
+E:\Diplomado 2022\02 Diseño guiado por el Dominio y Arquitectura Limpia\03 Sesion 09.04.2022\Proyecto\ms-aeronaves-main\AeroNaves.ConsolaUI\obj\Debug\net5.0\AeroNaves.ConsolaUI.AssemblyInfo.cs
+E:\Diplomado 2022\02 Diseño guiado por el Dominio y Arquitectura Limpia\03 Sesion 09.04.2022\Proyecto\ms-aeronaves-main\AeroNaves.ConsolaUI\obj\Debug\net5.0\AeroNaves.ConsolaUI.csproj.CoreCompileInputs.cache
+E:\Diplomado 2022\02 Diseño guiado por el Dominio y Arquitectura Limpia\03 Sesion 09.04.2022\Proyecto\ms-aeronaves-main\AeroNaves.ConsolaUI\obj\Debug\net5.0\AeroNaves.ConsolaUI.csproj.CopyComplete
+E:\Diplomado 2022\02 Diseño guiado por el Dominio y Arquitectura Limpia\03 Sesion 09.04.2022\Proyecto\ms-aeronaves-main\AeroNaves.ConsolaUI\obj\Debug\net5.0\AeroNaves.ConsolaUI.dll
+E:\Diplomado 2022\02 Diseño guiado por el Dominio y Arquitectura Limpia\03 Sesion 09.04.2022\Proyecto\ms-aeronaves-main\AeroNaves.ConsolaUI\obj\Debug\net5.0\refint\AeroNaves.ConsolaUI.dll
+E:\Diplomado 2022\02 Diseño guiado por el Dominio y Arquitectura Limpia\03 Sesion 09.04.2022\Proyecto\ms-aeronaves-main\AeroNaves.ConsolaUI\obj\Debug\net5.0\AeroNaves.ConsolaUI.pdb
+E:\Diplomado 2022\02 Diseño guiado por el Dominio y Arquitectura Limpia\03 Sesion 09.04.2022\Proyecto\ms-aeronaves-main\AeroNaves.ConsolaUI\obj\Debug\net5.0\AeroNaves.ConsolaUI.genruntimeconfig.cache
+E:\Diplomado 2022\02 Diseño guiado por el Dominio y Arquitectura Limpia\03 Sesion 09.04.2022\Proyecto\ms-aeronaves-main\AeroNaves.ConsolaUI\obj\Debug\net5.0\ref\AeroNaves.ConsolaUI.dll

@@ -34,3 +34,15 @@ C:\Users\Jose Luis\Downloads\ms-aeronaves-main\ShareKernel\obj\Debug\net5.0\Shar
 C:\Users\Jose Luis\Downloads\ms-aeronaves-main\ShareKernel\obj\Debug\net5.0\refint\ShareKernel.dll
 C:\Users\Jose Luis\Downloads\ms-aeronaves-main\ShareKernel\obj\Debug\net5.0\ShareKernel.pdb
 C:\Users\Jose Luis\Downloads\ms-aeronaves-main\ShareKernel\obj\Debug\net5.0\ref\ShareKernel.dll
+E:\Diplomado 2022\02 Diseño guiado por el Dominio y Arquitectura Limpia\03 Sesion 09.04.2022\Proyecto\ms-aeronaves-main\ShareKernel\bin\Debug\net5.0\ShareKernel.deps.json
+E:\Diplomado 2022\02 Diseño guiado por el Dominio y Arquitectura Limpia\03 Sesion 09.04.2022\Proyecto\ms-aeronaves-main\ShareKernel\bin\Debug\net5.0\ShareKernel.dll
+E:\Diplomado 2022\02 Diseño guiado por el Dominio y Arquitectura Limpia\03 Sesion 09.04.2022\Proyecto\ms-aeronaves-main\ShareKernel\bin\Debug\net5.0\ShareKernel.pdb
+E:\Diplomado 2022\02 Diseño guiado por el Dominio y Arquitectura Limpia\03 Sesion 09.04.2022\Proyecto\ms-aeronaves-main\ShareKernel\obj\Debug\net5.0\ShareKernel.csproj.AssemblyReference.cache
+E:\Diplomado 2022\02 Diseño guiado por el Dominio y Arquitectura Limpia\03 Sesion 09.04.2022\Proyecto\ms-aeronaves-main\ShareKernel\obj\Debug\net5.0\ShareKernel.GeneratedMSBuildEditorConfig.editorconfig
+E:\Diplomado 2022\02 Diseño guiado por el Dominio y Arquitectura Limpia\03 Sesion 09.04.2022\Proyecto\ms-aeronaves-main\ShareKernel\obj\Debug\net5.0\ShareKernel.AssemblyInfoInputs.cache
+E:\Diplomado 2022\02 Diseño guiado por el Dominio y Arquitectura Limpia\03 Sesion 09.04.2022\Proyecto\ms-aeronaves-main\ShareKernel\obj\Debug\net5.0\ShareKernel.AssemblyInfo.cs
+E:\Diplomado 2022\02 Diseño guiado por el Dominio y Arquitectura Limpia\03 Sesion 09.04.2022\Proyecto\ms-aeronaves-main\ShareKernel\obj\Debug\net5.0\ShareKernel.csproj.CoreCompileInputs.cache
+E:\Diplomado 2022\02 Diseño guiado por el Dominio y Arquitectura Limpia\03 Sesion 09.04.2022\Proyecto\ms-aeronaves-main\ShareKernel\obj\Debug\net5.0\ShareKernel.dll
+E:\Diplomado 2022\02 Diseño guiado por el Dominio y Arquitectura Limpia\03 Sesion 09.04.2022\Proyecto\ms-aeronaves-main\ShareKernel\obj\Debug\net5.0\refint\ShareKernel.dll
+E:\Diplomado 2022\02 Diseño guiado por el Dominio y Arquitectura Limpia\03 Sesion 09.04.2022\Proyecto\ms-aeronaves-main\ShareKernel\obj\Debug\net5.0\ShareKernel.pdb
+E:\Diplomado 2022\02 Diseño guiado por el Dominio y Arquitectura Limpia\03 Sesion 09.04.2022\Proyecto\ms-aeronaves-main\ShareKernel\obj\Debug\net5.0\ref\ShareKernel.dll

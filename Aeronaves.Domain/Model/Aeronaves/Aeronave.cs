@@ -7,6 +7,7 @@ using ShareKernel.Core;
 using Aeronaves.Domain.Event;
 using Aeronaves.Domain.Model.Aeronaves.ValueObjects;
 using Aeronaves.Domain.ValueObjects;
+using System.Collections.ObjectModel;
 
 namespace Aeronaves.Domain.Model.Aeronaves
 {
@@ -18,18 +19,36 @@ namespace Aeronaves.Domain.Model.Aeronaves
         public AeronaveEstadoFuncional EstadoFuncionalAeronave { get; set; }
         public NroAsientosValue Nroasientos { get; private set; }
 
-        public ICollection<ControlAeronave> AeronaveControl { get; private set; }
+        public readonly ICollection<ControlAeronave> AeronaveControl; 
 
+
+        public IReadOnlyCollection<ControlAeronave> Control
+        {
+            get
+            {
+                return new ReadOnlyCollection<ControlAeronave>(AeronaveControl.ToList());
+            }
+        }
+
+        
         //Parametro que debe ingresar desde microservicio VUELOS
         public int Codvuelo { get; private set; }
 
-               
-        public Aeronave(int codvuelo, int codaeronave, string estadofuncionalAeronave)
+        public Aeronave() { Id = Guid.NewGuid(); }
+
+        public Aeronave(int codaeronave)
+        {
+            Id = Guid.NewGuid();           
+            CodAeronave = codaeronave;
+            AeronaveControl = new List<ControlAeronave>();
+        }
+
+        //public Aeronave(int codvuelo, int codaeronave, string estadofuncionalAeronave)
+        public Aeronave(int codvuelo, int codaeronave)
         {
             Id = Guid.NewGuid();
             Codvuelo = codvuelo;
-            CodAeronave = codaeronave;
-            EstadoFuncionalAeronave = estadofuncionalAeronave;
+            CodAeronave = codaeronave;            
             AeronaveControl = new List<ControlAeronave>();
         }
 

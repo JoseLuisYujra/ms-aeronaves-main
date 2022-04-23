@@ -13,3 +13,18 @@ C:\Users\Jose Luis\Downloads\ms-aeronaves-main\Aeronaves.Domain\obj\Debug\net5.0
 C:\Users\Jose Luis\Downloads\ms-aeronaves-main\Aeronaves.Domain\obj\Debug\net5.0\refint\Aeronaves.Domain.dll
 C:\Users\Jose Luis\Downloads\ms-aeronaves-main\Aeronaves.Domain\obj\Debug\net5.0\Aeronaves.Domain.pdb
 C:\Users\Jose Luis\Downloads\ms-aeronaves-main\Aeronaves.Domain\obj\Debug\net5.0\ref\Aeronaves.Domain.dll
+E:\Diplomado 2022\02 Diseño guiado por el Dominio y Arquitectura Limpia\03 Sesion 09.04.2022\Proyecto\ms-aeronaves-main\Aeronaves.Domain\bin\Debug\net5.0\Aeronaves.Domain.deps.json
+E:\Diplomado 2022\02 Diseño guiado por el Dominio y Arquitectura Limpia\03 Sesion 09.04.2022\Proyecto\ms-aeronaves-main\Aeronaves.Domain\bin\Debug\net5.0\Aeronaves.Domain.dll
+E:\Diplomado 2022\02 Diseño guiado por el Dominio y Arquitectura Limpia\03 Sesion 09.04.2022\Proyecto\ms-aeronaves-main\Aeronaves.Domain\bin\Debug\net5.0\Aeronaves.Domain.pdb
+E:\Diplomado 2022\02 Diseño guiado por el Dominio y Arquitectura Limpia\03 Sesion 09.04.2022\Proyecto\ms-aeronaves-main\Aeronaves.Domain\bin\Debug\net5.0\ShareKernel.dll
+E:\Diplomado 2022\02 Diseño guiado por el Dominio y Arquitectura Limpia\03 Sesion 09.04.2022\Proyecto\ms-aeronaves-main\Aeronaves.Domain\bin\Debug\net5.0\ShareKernel.pdb
+E:\Diplomado 2022\02 Diseño guiado por el Dominio y Arquitectura Limpia\03 Sesion 09.04.2022\Proyecto\ms-aeronaves-main\Aeronaves.Domain\obj\Debug\net5.0\Aeronaves.Domain.csproj.AssemblyReference.cache
+E:\Diplomado 2022\02 Diseño guiado por el Dominio y Arquitectura Limpia\03 Sesion 09.04.2022\Proyecto\ms-aeronaves-main\Aeronaves.Domain\obj\Debug\net5.0\Aeronaves.Domain.GeneratedMSBuildEditorConfig.editorconfig
+E:\Diplomado 2022\02 Diseño guiado por el Dominio y Arquitectura Limpia\03 Sesion 09.04.2022\Proyecto\ms-aeronaves-main\Aeronaves.Domain\obj\Debug\net5.0\Aeronaves.Domain.AssemblyInfoInputs.cache
+E:\Diplomado 2022\02 Diseño guiado por el Dominio y Arquitectura Limpia\03 Sesion 09.04.2022\Proyecto\ms-aeronaves-main\Aeronaves.Domain\obj\Debug\net5.0\Aeronaves.Domain.AssemblyInfo.cs
+E:\Diplomado 2022\02 Diseño guiado por el Dominio y Arquitectura Limpia\03 Sesion 09.04.2022\Proyecto\ms-aeronaves-main\Aeronaves.Domain\obj\Debug\net5.0\Aeronaves.Domain.csproj.CoreCompileInputs.cache
+E:\Diplomado 2022\02 Diseño guiado por el Dominio y Arquitectura Limpia\03 Sesion 09.04.2022\Proyecto\ms-aeronaves-main\Aeronaves.Domain\obj\Debug\net5.0\Aeronaves.Domain.csproj.CopyComplete
+E:\Diplomado 2022\02 Diseño guiado por el Dominio y Arquitectura Limpia\03 Sesion 09.04.2022\Proyecto\ms-aeronaves-main\Aeronaves.Domain\obj\Debug\net5.0\Aeronaves.Domain.dll
+E:\Diplomado 2022\02 Diseño guiado por el Dominio y Arquitectura Limpia\03 Sesion 09.04.2022\Proyecto\ms-aeronaves-main\Aeronaves.Domain\obj\Debug\net5.0\refint\Aeronaves.Domain.dll
+E:\Diplomado 2022\02 Diseño guiado por el Dominio y Arquitectura Limpia\03 Sesion 09.04.2022\Proyecto\ms-aeronaves-main\Aeronaves.Domain\obj\Debug\net5.0\Aeronaves.Domain.pdb
+E:\Diplomado 2022\02 Diseño guiado por el Dominio y Arquitectura Limpia\03 Sesion 09.04.2022\Proyecto\ms-aeronaves-main\Aeronaves.Domain\obj\Debug\net5.0\ref\Aeronaves.Domain.dll

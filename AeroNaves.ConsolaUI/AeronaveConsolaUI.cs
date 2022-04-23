@@ -13,7 +13,7 @@ namespace AeroNaves.ConsolaUI
             Personal objPersonal = new Personal("Jose Luis Yujra");
 
             //Codvuelo,CodAeronave,EstadoFuncionalAeronave (OPERATIVO/MANTENIMIENTO)
-            Aeronave objAeronave1 = new Aeronave(1, 2, "OPERATIVO");
+            Aeronave objAeronave1 = new Aeronave(1);
 
 
             //ASIGNACION DE AERONAVE
@@ -24,7 +24,7 @@ namespace AeroNaves.ConsolaUI
 
             //ACTUALIZAR AERONAVE
             //Codvuelo,CodAeronave,EstadoFuncionalAeronave (OPERATIVO/MANTENIMIENTO)
-            Aeronave objAeronave2 = new Aeronave(1, 5, "OPERATIVO");
+            Aeronave objAeronave2 = new Aeronave(2);
             objAeronave2.RegistroAeronave(objAeronave2.Id, "Boeing", "Boeing-2022", 100m, 800m, "Aeropuerto Santa Cruz", "MANTENIMIENTO");
             objAeronave2.AsignarAeronave();
 

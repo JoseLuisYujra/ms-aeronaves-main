@@ -12,6 +12,6 @@ namespace Aeronaves.Domain.Repositories
     {
         Task UpdateAsync(Aeronave obj);
 
-        Task RemoveAsync(Aeronave obj);
+        //Task RemoveAsync(Aeronave obj);
     }
 }

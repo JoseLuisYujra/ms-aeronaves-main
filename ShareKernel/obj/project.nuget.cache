@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "3J0pyeJXHFZ+zJlplXjF35MYGH15xSKChOV1Wai96L/nBRoPReVhBSdKFSnAFtaLpMA2OV/jI9jFg5fcPdiOQw==",
+  "dgSpecHash": "LaQXNTzPbvRmabl7KiQGBDDb69LxQnfuQR8w430YAtp3AdQnsEJcHqw5ryAzb6SiBoS/kjC8chdeOaQeoZkqdg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Jose Luis\\Downloads\\ms-aeronaves-main\\ShareKernel\\ShareKernel.csproj",
+  "projectFilePath": "E:\\Diplomado 2022\\02 Diseño guiado por el Dominio y Arquitectura Limpia\\03 Sesion 09.04.2022\\Proyecto\\ms-aeronaves-main\\ShareKernel\\ShareKernel.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
