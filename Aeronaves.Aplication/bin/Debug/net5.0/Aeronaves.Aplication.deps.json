@@ -80,9 +80,6 @@
         }
       },
       "ShareKernel/1.0.0": {
-        "dependencies": {
-          "MediatR": "10.0.1"
-        },
         "runtime": {
           "ShareKernel.dll": {}
         }

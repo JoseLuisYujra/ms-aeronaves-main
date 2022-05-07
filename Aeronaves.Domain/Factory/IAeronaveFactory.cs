@@ -13,7 +13,6 @@ namespace Aeronaves.Domain.Factory
 {
     public interface IAeronaveFactory
     {
-        Aeronave Create(int idAeronave);
-        
+       Aeronave Create(int idAeronave);
     }
 }

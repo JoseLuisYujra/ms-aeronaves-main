@@ -29,7 +29,8 @@ namespace AeroNaves.webApi
         public void ConfigureServices(IServiceCollection services)
         {
 
-            services.AddInfrastructure(Configuration);          
+            services.AddApplication();
+            services.AddInfrastructure();
 
             services.AddControllers();
             services.AddSwaggerGen(c =>

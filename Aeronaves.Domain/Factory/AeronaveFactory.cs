@@ -14,8 +14,6 @@ namespace Aeronaves.Domain.Factory
         {
             return new Aeronave(idAeronave);
         }
-              
     }
+
 }
-
-

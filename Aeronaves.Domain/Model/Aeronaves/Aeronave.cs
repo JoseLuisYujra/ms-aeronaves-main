@@ -12,30 +12,16 @@ using System.Collections.ObjectModel;
 namespace Aeronaves.Domain.Model.Aeronaves
 {
 
-    public class Aeronave : AggregateRoot<Guid>
+    public class Aeronave : AggregateRoot<Guid>          
     {
-        public Guid IdAeronave { get; private set; }
-
+        public Guid IdAeronave { get; private set; }       
         public int CodAeronave { get; private set; }
+        public AeronaveEstadoFuncional EstadoFuncionalAeronave { get; set; }
+        public NroAsientosValue Nroasientos { get; private set; }
 
-        public Guid IdAeropuerto { get; private set; }
-        //public Guid IdControlAeronave { get; private set; }
-
-        //public Guid IdAsignacionAeronave { get; private set; }
-
-        public NroAsientosValue TotalNroAsientos { get; private set; }
-
-        public AeronaveEstadoDisponibilidad EstadoDisponibilidad { get; private set; }
-
-
-      
-        public ControlAeronave AeronaveControl { get; private set; }
-
-
-        public AsignacionAeronave AeronaveAsignacion { get; private set; }
-
-        /*
         public readonly ICollection<ControlAeronave> AeronaveControl; 
+
+
         public IReadOnlyCollection<ControlAeronave> Control
         {
             get
@@ -43,96 +29,57 @@ namespace Aeronaves.Domain.Model.Aeronaves
                 return new ReadOnlyCollection<ControlAeronave>(AeronaveControl.ToList());
             }
         }
-        */
 
+        
         //Parametro que debe ingresar desde microservicio VUELOS
-        public Guid IdVuelo { get; private set; }
+        public int Codvuelo { get; private set; }
 
-        private Aeronave() {
-            Id = Guid.NewGuid();
-            TotalNroAsientos = 0;
-        }
+        public Aeronave() { Id = Guid.NewGuid(); }
 
         public Aeronave(int codaeronave)
         {
-            Id = Guid.NewGuid();
+            Id = Guid.NewGuid();           
             CodAeronave = codaeronave;
-            TotalNroAsientos = 30;
-            //AeronaveControl = new List<ControlAeronave>();
-
-        }      
-
-        public Aeronave(Guid idVuelo, int codaeronave)
-        {
-            Id = Guid.NewGuid();
-            IdVuelo = idVuelo;
-            CodAeronave = codaeronave;
-            TotalNroAsientos = 30;
+            AeronaveControl = new List<ControlAeronave>();
         }
 
-        public Aeronave(Guid idVuelo, int codaeronave, int totalNroAsientos)
+        //public Aeronave(int codvuelo, int codaeronave, string estadofuncionalAeronave)
+        public Aeronave(int codvuelo, int codaeronave)
         {
             Id = Guid.NewGuid();
-            IdVuelo = idVuelo;
-            CodAeronave = codaeronave;
-            TotalNroAsientos = totalNroAsientos;
+            Codvuelo = codvuelo;
+            CodAeronave = codaeronave;            
+            AeronaveControl = new List<ControlAeronave>();
         }
 
         //uso de DOMAIN EVENT
         public void AsignarAeronave()
         {
-            var evento = new AeronaveAsignada(CodAeronave, Id, IdVuelo);
+      
+            var evento = new AeronaveAsignada(Id, CodAeronave);
             AddDomainEvent(evento);
-
-        }
-
-        /*
-        public void ActualizarEstadoAeronave(NroAsientosValue _Nroasientos)
-        {
-            if (_Nroasientos < TotalNroAsientos)
-            {
-                EstadoDisponibilidad = "Disponible";
-            }
-            else
-            {
-                EstadoDisponibilidad = "Asignado";
-            }
-            if ((TotalNroAsientos - _Nroasientos) < 0)
-            {
-                throw new BussinessRuleValidationException("Nro de Asiento insuficiente");
-            }          
-        }
-        */
-        public void ActualizarEstadoAeronave()
-        {
-                         EstadoDisponibilidad = "Asignado";           
         }
 
         //
         public void RegistroAeronave(Guid idaeronave, string marca, string modelo,
             decimal capacidadCarga, decimal capTanqueCombustible, string aereopuertoEstacionamiento,
-            string estadoFuncionalAeronave, int asientosAsignados)
+            string estadoFuncionalAeronave)
         {
-            /*
+
             var controlAeronave = AeronaveControl.FirstOrDefault(x => x.IdAeronave == idaeronave);
             if (controlAeronave is null)
             {
-                controlAeronave = new ControlAeronave(idaeronave, marca, modelo, capacidadCarga, capTanqueCombustible, aereopuertoEstacionamiento, estadoFuncionalAeronave, asientosAsignados);
+                controlAeronave = new ControlAeronave(idaeronave, marca, modelo, capacidadCarga, capTanqueCombustible, aereopuertoEstacionamiento, estadoFuncionalAeronave);
                 AeronaveControl.Add(controlAeronave);
             }
             else
             {
                 controlAeronave.ActualizarAeronave(capTanqueCombustible, aereopuertoEstacionamiento, estadoFuncionalAeronave);
             }
-            */                   
 
-            AddDomainEvent(new AeronaveAgregada(idaeronave, marca, modelo, capacidadCarga, capTanqueCombustible, aereopuertoEstacionamiento, estadoFuncionalAeronave, asientosAsignados, AeronaveControl));          
-
+            AddDomainEvent(new AeronaveAgregada(idaeronave, marca, modelo, capacidadCarga, capTanqueCombustible, aereopuertoEstacionamiento, estadoFuncionalAeronave));
+               
         }
 
-        public void RegistroAsignacionAeronave(Guid idAeronave, Guid idVuelo, int nroAsientosAeronave, string estadoAsignacion)
-        {
-            AeronaveAsignacion = new AsignacionAeronave(idAeronave, idVuelo, nroAsientosAeronave, estadoAsignacion);                       
-        }
     }
 }

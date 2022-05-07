@@ -15,8 +15,6 @@ namespace Aeronaves.Domain.Model.Aeronaves
     public class ControlAeronave : Entity<Guid>
     {
         public Guid IdAeronave { get; private set; }
-        public Guid IdControlAeronave { get; private set; }
-       
 
         public string Marca { get; private set; }
         public string Modelo { get; private set; }
@@ -24,22 +22,19 @@ namespace Aeronaves.Domain.Model.Aeronaves
         public RegistroDecimalValue CapTanqueCombustible { get; private set; }
         public string AereopuertoEstacionamiento { get; private set; }
         public AeronaveEstadoFuncional EstadoFuncionalAeronave { get; set; }
+        
 
-        public NroAsientosValue AsientosAsignados { get; private set; }
-
-        public ControlAeronave() { }
 
         internal ControlAeronave(Guid idaeronave, string marca, string modelo,
             decimal capacidadCarga, decimal capTanqueCombustible, string aereopuertoEstacionamiento,
-            string estadoFuncionalAeronave, int asientosAsignados)            
+            string estadoFuncionalAeronave)            
         {
             Id = Guid.NewGuid();
-            IdControlAeronave = Guid.NewGuid();
             IdAeronave = idaeronave;
 
-            //CheckRule(new StringNotNullOrEmptyRule(marca));
-            //CheckRule(new StringNotNullOrEmptyRule(modelo));
-            //CheckRule(new StringNotNullOrEmptyRule(aereopuertoEstacionamiento));
+            CheckRule(new StringNotNullOrEmptyRule(marca));
+            CheckRule(new StringNotNullOrEmptyRule(modelo));
+            CheckRule(new StringNotNullOrEmptyRule(aereopuertoEstacionamiento));
 
             Marca = marca;
             Modelo = modelo;
@@ -47,17 +42,18 @@ namespace Aeronaves.Domain.Model.Aeronaves
             CapTanqueCombustible = capTanqueCombustible;
             AereopuertoEstacionamiento = aereopuertoEstacionamiento;
             EstadoFuncionalAeronave = estadoFuncionalAeronave;
-            AsientosAsignados = asientosAsignados;
         }
 
         internal void ActualizarAeronave(decimal capTanqueCombustible, string aereopuertoEstacionamiento,
-            string estadoFuncionalAeronave,int asientosAsignados)
+            string estadoFuncionalAeronave)
         {
             CapTanqueCombustible = capTanqueCombustible;
             AereopuertoEstacionamiento = aereopuertoEstacionamiento;
             EstadoFuncionalAeronave = estadoFuncionalAeronave;
-            AsientosAsignados = asientosAsignados;
         }
-        
+           
+
+
+
     }
 }

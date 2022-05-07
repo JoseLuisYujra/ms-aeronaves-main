@@ -17,9 +17,9 @@ namespace Aeronaves.Domain.ValueObjects
             {
                 throw new BussinessRuleValidationException("El Estado no puede ser vacio o nulo");
             }
-            else if (value != "Operativo" && value != "Mantenimiento")
+            else if (value != "OPERATIVO" && value != "MANTENIMIENTO")
                 {
-                throw new BussinessRuleValidationException("El Estado no es valido -> (Operativo,Mantenimiento)");
+                throw new BussinessRuleValidationException("El Estado no esta en el catalogo");
             }      
            Value = value;
         }

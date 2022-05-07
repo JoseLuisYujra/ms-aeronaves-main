@@ -3,11 +3,10 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using MediatR;
 
 namespace ShareKernel.Core
 {
-    public abstract record DomainEvent : INotification
+    public abstract record DomainEvent 
     {
         public DateTime OccuredOn { get; }
         public Guid Id { get; }

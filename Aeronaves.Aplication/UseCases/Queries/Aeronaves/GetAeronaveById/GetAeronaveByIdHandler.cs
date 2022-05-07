@@ -34,17 +34,13 @@ namespace Aeronaves.Aplication.UseCases.Queries.Aeronaves.GetAeronaveById
 
                 result = new AeronaveDTO()
                 {
-                    IdAeronave = objAeronave.IdAeronave,
-                    IdAeropuerto = objAeronave.IdAeropuerto,
-                    //IdControlAeronave = objAeronave.IdControlAeronave,
-                    //IdAsignacionAeronave =objAeronave.IdAsignacionAeronave,
+                    IdAeronave  =objAeronave.IdAeronave,
                     CodAeronave = objAeronave.CodAeronave,
-                    TotalNroAsientos = objAeronave.TotalNroAsientos,
-                    EstadoDisponibilidad = objAeronave.EstadoDisponibilidad,
-                    AeronaveControl = objAeronave.AeronaveControl                   
-
+                    Nroasientos = objAeronave.Nroasientos,
+                    EstadoFuncionalAeronave =objAeronave.EstadoFuncionalAeronave,
+                    Codvuelo = objAeronave.Codvuelo
                 };
-                /*
+
                 foreach (var item in objAeronave.AeronaveControl)
                 {
                     result.AeronaveControl.Add(new ControlAeronaveDto()
@@ -55,15 +51,13 @@ namespace Aeronaves.Aplication.UseCases.Queries.Aeronaves.GetAeronaveById
                         CapacidadCarga = item.CapacidadCarga,
                         CapTanqueCombustible = item.CapTanqueCombustible,
                         AereopuertoEstacionamiento = item.AereopuertoEstacionamiento,
-                        EstadoFuncionalAeronave = item.EstadoFuncionalAeronave,
-                        AsientosAsignados =item.AsientosAsignados
+                        EstadoFuncionalAeronave = item.EstadoFuncionalAeronave
                     });
                 }
-                */
             }
             catch (Exception ex)
             {
-                _logger.LogError(ex, "Error al obtener asignacion con id: { IdAeronave }", request.Id);
+                _logger.LogError(ex, "Error al obtener Asignacion con id: { PedidoId }", request.Id);
             }
 
             return result;

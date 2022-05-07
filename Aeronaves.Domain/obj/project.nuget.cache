@@ -1,11 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "UsvkbvTwbGEFSY2238abX8MtLXOYGym4gV0gMYRaPwau0kOEinnAGjBd9+RTzH0cPKD3YMD+D+4Gfa3FXtFrSg==",
+  "dgSpecHash": "/rrY7tvUwjiZucNs04Fg+26d8DwHsNxTC/KRb19FHluPNwWlzfXafa9JNWk7PotApzCec3Nv4Dq3/FRd+sOdXQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Jose Luis\\Downloads\\ms-aeronaves-main-main 27.04.2022 ULTIMO\\Aeronaves.Domain\\Aeronaves.Domain.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\Jose Luis\\.nuget\\packages\\mediatr\\10.0.1\\mediatr.10.0.1.nupkg.sha512",
-    "C:\\Users\\Jose Luis\\.nuget\\packages\\mediatr.contracts\\1.0.1\\mediatr.contracts.1.0.1.nupkg.sha512"
-  ],
+  "projectFilePath": "E:\\Diplomado 2022\\02 Diseño guiado por el Dominio y Arquitectura Limpia\\03 Sesion 09.04.2022\\Proyecto\\ms-aeronaves-main\\Aeronaves.Domain\\Aeronaves.Domain.csproj",
+  "expectedPackageFiles": [],
   "logs": []
 }
