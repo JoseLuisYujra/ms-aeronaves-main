@@ -9,6 +9,6 @@ namespace Aeronaves.Aplication.Services
  
     public class AeronaveService : IAeoronaveService
     {
-        public Task<int> GenerarAsignacionAeronaveAsync() => Task.FromResult(77);
+        public Task<int> GenerarAsignacionAeronaveAsync() => Task.FromResult(1);
     }
 }

@@ -37,13 +37,18 @@ namespace Aeronaves.Aplication.UseCases.Command.Aeronaves.AsignarAeronave
             try
             {
                 int nroAsignacion = await _aeoronaveService.GenerarAsignacionAeronaveAsync();
-                Aeronave objPedido = _aeronaveFactory.Create(nroAsignacion);                
+                Aeronave objPedido = _aeronaveFactory.Create(nroAsignacion);
 
+                /*
                 foreach (var item in request.Detalle)
                 {
                     objPedido.RegistroAeronave(item.IdAeronave, item.Marca, item.Modelo, item.CapacidadCarga,
-                                               item.CapTanqueCombustible,item.AereopuertoEstacionamiento,item.EstadoFuncionalAeronave);
+                                               item.CapTanqueCombustible,item.AereopuertoEstacionamiento,item.EstadoFuncionalAeronave,item.AsientosAsignados);
                 }
+                */
+                objPedido.RegistroAeronave(request.AeronaveControl.IdAeronave, request.AeronaveControl.Marca, request.AeronaveControl.Modelo, request.AeronaveControl.CapacidadCarga,
+                                               request.AeronaveControl.CapTanqueCombustible, request.AeronaveControl.AereopuertoEstacionamiento, request.AeronaveControl.EstadoFuncionalAeronave, request.AeronaveControl.AsientosAsignados);
+
                 objPedido.AsignarAeronave();
 
                 await _aeronaveRepository.CreateAsync(objPedido);
@@ -54,7 +59,7 @@ namespace Aeronaves.Aplication.UseCases.Command.Aeronaves.AsignarAeronave
             }
             catch (Exception ex)
             {
-                _logger.LogError(ex, "Error al crear Asignacion");
+                _logger.LogError(ex, "Error al crear asignacion");
             }
             return Guid.Empty;
         }

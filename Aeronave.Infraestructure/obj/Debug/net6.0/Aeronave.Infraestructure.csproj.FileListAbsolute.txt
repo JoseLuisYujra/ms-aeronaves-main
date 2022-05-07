@@ -1,0 +1,2 @@
+E:\Diplomado 2022\02 Diseño guiado por el Dominio y Arquitectura Limpia\05 Sesion 23.04.2022\Proyecto 25.04.2022\ms-aeronaves-main-main 27.04.2022 ULTIMO\Aeronave.Infraestructure\obj\Debug\net6.0\Aeronave.Infraestructure.csproj.AssemblyReference.cache
+E:\Diplomado 2022\02 Diseño guiado por el Dominio y Arquitectura Limpia\05 Sesion 23.04.2022\Proyecto 25.04.2022\ms-aeronaves-main-main 27.04.2022 ULTIMO\Aeronave.Infraestructure\obj\Debug\net6.0\Aeronave.Infraestructure.GeneratedMSBuildEditorConfig.editorconfig

@@ -17,8 +17,8 @@
 
   <ItemGroup>
     <Folder Include="UseCases\Command\Aeronaves\CrearAeronave\" />
-    <Folder Include="UseCases\Command\Aeronaves\ModificarAeronave\" />
     <Folder Include="UseCases\Command\Aeronaves\EliminarAeronave\" />
+    <Folder Include="UseCases\Command\Aeronaves\ModificarAeronave\" />
   </ItemGroup>
 
 </Project>
