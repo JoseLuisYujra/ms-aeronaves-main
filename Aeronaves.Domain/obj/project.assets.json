@@ -34,11 +34,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Diplomado 2022\\02 Diseño guiado por el Dominio y Arquitectura Limpia\\03 Sesion 09.04.2022\\Proyecto\\ms-aeronaves-main\\Aeronaves.Domain\\Aeronaves.Domain.csproj",
+      "projectUniqueName": "C:\\Users\\Jose Luis\\Downloads\\ms-aeronaves-main-main 27.04.2022 ULTIMO\\Aeronaves.Domain\\Aeronaves.Domain.csproj",
       "projectName": "Aeronaves.Domain",
-      "projectPath": "E:\\Diplomado 2022\\02 Diseño guiado por el Dominio y Arquitectura Limpia\\03 Sesion 09.04.2022\\Proyecto\\ms-aeronaves-main\\Aeronaves.Domain\\Aeronaves.Domain.csproj",
+      "projectPath": "C:\\Users\\Jose Luis\\Downloads\\ms-aeronaves-main-main 27.04.2022 ULTIMO\\Aeronaves.Domain\\Aeronaves.Domain.csproj",
       "packagesPath": "C:\\Users\\Jose Luis\\.nuget\\packages\\",
-      "outputPath": "E:\\Diplomado 2022\\02 Diseño guiado por el Dominio y Arquitectura Limpia\\03 Sesion 09.04.2022\\Proyecto\\ms-aeronaves-main\\Aeronaves.Domain\\obj\\",
+      "outputPath": "C:\\Users\\Jose Luis\\Downloads\\ms-aeronaves-main-main 27.04.2022 ULTIMO\\Aeronaves.Domain\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -60,8 +60,8 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "E:\\Diplomado 2022\\02 Diseño guiado por el Dominio y Arquitectura Limpia\\03 Sesion 09.04.2022\\Proyecto\\ms-aeronaves-main\\ShareKernel\\ShareKernel.csproj": {
-              "projectPath": "E:\\Diplomado 2022\\02 Diseño guiado por el Dominio y Arquitectura Limpia\\03 Sesion 09.04.2022\\Proyecto\\ms-aeronaves-main\\ShareKernel\\ShareKernel.csproj"
+            "C:\\Users\\Jose Luis\\Downloads\\ms-aeronaves-main-main 27.04.2022 ULTIMO\\ShareKernel\\ShareKernel.csproj": {
+              "projectPath": "C:\\Users\\Jose Luis\\Downloads\\ms-aeronaves-main-main 27.04.2022 ULTIMO\\ShareKernel\\ShareKernel.csproj"
             }
           }
         }

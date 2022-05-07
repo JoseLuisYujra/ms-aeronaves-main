@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "mOb7Pb7kUXqjnS0uV0MtMaoWeaqyKvYw2phH7hnsAt6/Ie1R6C4u00FKn4hdYL0y0qjeZH035b738dgvwMpW4Q==",
+  "dgSpecHash": "lb3LQneRJReV8wsznh+hC3/AiNCC2lsZHe6+IdFJhQWrq94awiFZivKY88bnFUg2de/N7koiW3uQbPGSA9/vvw==",
   "success": true,
-  "projectFilePath": "E:\\Diplomado 2022\\02 Diseño guiado por el Dominio y Arquitectura Limpia\\03 Sesion 09.04.2022\\Proyecto\\ms-aeronaves-main\\Aeronave.Infraestructure\\Aeronave.Infraestructure.csproj",
+  "projectFilePath": "C:\\Users\\Jose Luis\\Downloads\\ms-aeronaves-main-main 27.04.2022 ULTIMO\\Aeronave.Infraestructure\\Aeronave.Infraestructure.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Jose Luis\\.nuget\\packages\\mediatr\\10.0.1\\mediatr.10.0.1.nupkg.sha512",
     "C:\\Users\\Jose Luis\\.nuget\\packages\\mediatr.contracts\\1.0.1\\mediatr.contracts.1.0.1.nupkg.sha512",
