@@ -18,14 +18,14 @@ namespace AeroNaves.ConsolaUI
 
             //ASIGNACION DE AERONAVE
             //idaeronave, marca, modelo,capacidadCarga, capTanqueCombustible,  aereopuertoEstacionamiento, estadoFuncionalAeronave
-            objAeronave1.RegistroAeronave(objAeronave1.Id, "Boeing","Boeing-2021", 200m,1000m,"Aeropuerto El Alto","OPERATIVO");
+            objAeronave1.RegistroAeronave(objAeronave1.Id, "Boeing","Boeing-2021", 200m,1000m,"Aeropuerto El Alto","OPERATIVO",30);
             objAeronave1.AsignarAeronave();
 
 
             //ACTUALIZAR AERONAVE
             //Codvuelo,CodAeronave,EstadoFuncionalAeronave (OPERATIVO/MANTENIMIENTO)
             Aeronave objAeronave2 = new Aeronave(2);
-            objAeronave2.RegistroAeronave(objAeronave2.Id, "Boeing", "Boeing-2022", 100m, 800m, "Aeropuerto Santa Cruz", "MANTENIMIENTO");
+            objAeronave2.RegistroAeronave(objAeronave2.Id, "Boeing", "Boeing-2022", 100m, 800m, "Aeropuerto Santa Cruz", "MANTENIMIENTO",50);
             objAeronave2.AsignarAeronave();
 
         }

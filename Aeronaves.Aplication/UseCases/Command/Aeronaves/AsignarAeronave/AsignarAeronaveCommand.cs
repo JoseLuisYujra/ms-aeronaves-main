@@ -10,16 +10,25 @@ namespace Aeronaves.Aplication.UseCases.Command.Aeronaves.AsignarAeronave
 {
     public class AsignarAeronaveCommand : IRequest<Guid>
     {
+        public ControlAeronaveDto AeronaveControl { get; set; }
+
+        //public AeronaveDTO Aeronave { get; set; }  //
+
         private AsignarAeronaveCommand() { }
 
-        public AsignarAeronaveCommand(List<ControlAeronaveDto> detalle)
-        {
-            Detalle = detalle;
-        }
-
-        public List<ControlAeronaveDto> Detalle { get; set; }
-
-
+        
+        public AsignarAeronaveCommand(ControlAeronaveDto aeronaveControl)
+          {
+              AeronaveControl = aeronaveControl;
+          }
+        
+        /*
+          public AsignarAeronaveCommand(AeronaveDTO aeronave, ControlAeronaveDto aeronaveControl)
+          {
+              Aeronave = aeronave;
+              AeronaveControl = aeronaveControl;
+          }
+        */
 
     }
 }

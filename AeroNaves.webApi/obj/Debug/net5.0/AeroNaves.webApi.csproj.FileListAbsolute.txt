@@ -39,3 +39,200 @@ E:\Diplomado 2022\02 Diseño guiado por el Dominio y Arquitectura Limpia\03 Sesi
 E:\Diplomado 2022\02 Diseño guiado por el Dominio y Arquitectura Limpia\03 Sesion 09.04.2022\Proyecto\ms-aeronaves-main\AeroNaves.webApi\obj\Debug\net5.0\AeroNaves.webApi.pdb
 E:\Diplomado 2022\02 Diseño guiado por el Dominio y Arquitectura Limpia\03 Sesion 09.04.2022\Proyecto\ms-aeronaves-main\AeroNaves.webApi\obj\Debug\net5.0\AeroNaves.webApi.genruntimeconfig.cache
 E:\Diplomado 2022\02 Diseño guiado por el Dominio y Arquitectura Limpia\03 Sesion 09.04.2022\Proyecto\ms-aeronaves-main\AeroNaves.webApi\obj\Debug\net5.0\ref\AeroNaves.webApi.dll
+E:\Diplomado 2022\02 Diseño guiado por el Dominio y Arquitectura Limpia\05 Sesion 23.04.2022\Proyecto 25.04.2022\ms-aeronaves-main-main 27.04.2022\AeroNaves.webApi\bin\Debug\net5.0\appsettings.Development.json
+E:\Diplomado 2022\02 Diseño guiado por el Dominio y Arquitectura Limpia\05 Sesion 23.04.2022\Proyecto 25.04.2022\ms-aeronaves-main-main 27.04.2022\AeroNaves.webApi\bin\Debug\net5.0\appsettings.json
+E:\Diplomado 2022\02 Diseño guiado por el Dominio y Arquitectura Limpia\05 Sesion 23.04.2022\Proyecto 25.04.2022\ms-aeronaves-main-main 27.04.2022\AeroNaves.webApi\bin\Debug\net5.0\AeroNaves.webApi.exe
+E:\Diplomado 2022\02 Diseño guiado por el Dominio y Arquitectura Limpia\05 Sesion 23.04.2022\Proyecto 25.04.2022\ms-aeronaves-main-main 27.04.2022\AeroNaves.webApi\bin\Debug\net5.0\AeroNaves.webApi.deps.json
+E:\Diplomado 2022\02 Diseño guiado por el Dominio y Arquitectura Limpia\05 Sesion 23.04.2022\Proyecto 25.04.2022\ms-aeronaves-main-main 27.04.2022\AeroNaves.webApi\bin\Debug\net5.0\AeroNaves.webApi.runtimeconfig.json
+E:\Diplomado 2022\02 Diseño guiado por el Dominio y Arquitectura Limpia\05 Sesion 23.04.2022\Proyecto 25.04.2022\ms-aeronaves-main-main 27.04.2022\AeroNaves.webApi\bin\Debug\net5.0\AeroNaves.webApi.runtimeconfig.dev.json
+E:\Diplomado 2022\02 Diseño guiado por el Dominio y Arquitectura Limpia\05 Sesion 23.04.2022\Proyecto 25.04.2022\ms-aeronaves-main-main 27.04.2022\AeroNaves.webApi\bin\Debug\net5.0\AeroNaves.webApi.dll
+E:\Diplomado 2022\02 Diseño guiado por el Dominio y Arquitectura Limpia\05 Sesion 23.04.2022\Proyecto 25.04.2022\ms-aeronaves-main-main 27.04.2022\AeroNaves.webApi\bin\Debug\net5.0\AeroNaves.webApi.pdb
+E:\Diplomado 2022\02 Diseño guiado por el Dominio y Arquitectura Limpia\05 Sesion 23.04.2022\Proyecto 25.04.2022\ms-aeronaves-main-main 27.04.2022\AeroNaves.webApi\bin\Debug\net5.0\MediatR.dll
+E:\Diplomado 2022\02 Diseño guiado por el Dominio y Arquitectura Limpia\05 Sesion 23.04.2022\Proyecto 25.04.2022\ms-aeronaves-main-main 27.04.2022\AeroNaves.webApi\bin\Debug\net5.0\MediatR.Contracts.dll
+E:\Diplomado 2022\02 Diseño guiado por el Dominio y Arquitectura Limpia\05 Sesion 23.04.2022\Proyecto 25.04.2022\ms-aeronaves-main-main 27.04.2022\AeroNaves.webApi\bin\Debug\net5.0\MediatR.Extensions.Microsoft.DependencyInjection.dll
+E:\Diplomado 2022\02 Diseño guiado por el Dominio y Arquitectura Limpia\05 Sesion 23.04.2022\Proyecto 25.04.2022\ms-aeronaves-main-main 27.04.2022\AeroNaves.webApi\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\Diplomado 2022\02 Diseño guiado por el Dominio y Arquitectura Limpia\05 Sesion 23.04.2022\Proyecto 25.04.2022\ms-aeronaves-main-main 27.04.2022\AeroNaves.webApi\bin\Debug\net5.0\Microsoft.Extensions.Logging.Abstractions.dll
+E:\Diplomado 2022\02 Diseño guiado por el Dominio y Arquitectura Limpia\05 Sesion 23.04.2022\Proyecto 25.04.2022\ms-aeronaves-main-main 27.04.2022\AeroNaves.webApi\bin\Debug\net5.0\Microsoft.OpenApi.dll
+E:\Diplomado 2022\02 Diseño guiado por el Dominio y Arquitectura Limpia\05 Sesion 23.04.2022\Proyecto 25.04.2022\ms-aeronaves-main-main 27.04.2022\AeroNaves.webApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\Diplomado 2022\02 Diseño guiado por el Dominio y Arquitectura Limpia\05 Sesion 23.04.2022\Proyecto 25.04.2022\ms-aeronaves-main-main 27.04.2022\AeroNaves.webApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Diplomado 2022\02 Diseño guiado por el Dominio y Arquitectura Limpia\05 Sesion 23.04.2022\Proyecto 25.04.2022\ms-aeronaves-main-main 27.04.2022\AeroNaves.webApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Diplomado 2022\02 Diseño guiado por el Dominio y Arquitectura Limpia\05 Sesion 23.04.2022\Proyecto 25.04.2022\ms-aeronaves-main-main 27.04.2022\AeroNaves.webApi\bin\Debug\net5.0\Aeronave.Infraestructure.dll
+E:\Diplomado 2022\02 Diseño guiado por el Dominio y Arquitectura Limpia\05 Sesion 23.04.2022\Proyecto 25.04.2022\ms-aeronaves-main-main 27.04.2022\AeroNaves.webApi\bin\Debug\net5.0\Aeronaves.Aplication.dll
+E:\Diplomado 2022\02 Diseño guiado por el Dominio y Arquitectura Limpia\05 Sesion 23.04.2022\Proyecto 25.04.2022\ms-aeronaves-main-main 27.04.2022\AeroNaves.webApi\bin\Debug\net5.0\Aeronaves.Domain.dll
+E:\Diplomado 2022\02 Diseño guiado por el Dominio y Arquitectura Limpia\05 Sesion 23.04.2022\Proyecto 25.04.2022\ms-aeronaves-main-main 27.04.2022\AeroNaves.webApi\bin\Debug\net5.0\ShareKernel.dll
+E:\Diplomado 2022\02 Diseño guiado por el Dominio y Arquitectura Limpia\05 Sesion 23.04.2022\Proyecto 25.04.2022\ms-aeronaves-main-main 27.04.2022\AeroNaves.webApi\bin\Debug\net5.0\Aeronave.Infraestructure.pdb
+E:\Diplomado 2022\02 Diseño guiado por el Dominio y Arquitectura Limpia\05 Sesion 23.04.2022\Proyecto 25.04.2022\ms-aeronaves-main-main 27.04.2022\AeroNaves.webApi\bin\Debug\net5.0\Aeronaves.Aplication.pdb
+E:\Diplomado 2022\02 Diseño guiado por el Dominio y Arquitectura Limpia\05 Sesion 23.04.2022\Proyecto 25.04.2022\ms-aeronaves-main-main 27.04.2022\AeroNaves.webApi\bin\Debug\net5.0\Aeronaves.Domain.pdb
+E:\Diplomado 2022\02 Diseño guiado por el Dominio y Arquitectura Limpia\05 Sesion 23.04.2022\Proyecto 25.04.2022\ms-aeronaves-main-main 27.04.2022\AeroNaves.webApi\bin\Debug\net5.0\ShareKernel.pdb
+E:\Diplomado 2022\02 Diseño guiado por el Dominio y Arquitectura Limpia\05 Sesion 23.04.2022\Proyecto 25.04.2022\ms-aeronaves-main-main 27.04.2022\AeroNaves.webApi\obj\Debug\net5.0\AeroNaves.webApi.csproj.AssemblyReference.cache
+E:\Diplomado 2022\02 Diseño guiado por el Dominio y Arquitectura Limpia\05 Sesion 23.04.2022\Proyecto 25.04.2022\ms-aeronaves-main-main 27.04.2022\AeroNaves.webApi\obj\Debug\net5.0\AeroNaves.webApi.GeneratedMSBuildEditorConfig.editorconfig
+E:\Diplomado 2022\02 Diseño guiado por el Dominio y Arquitectura Limpia\05 Sesion 23.04.2022\Proyecto 25.04.2022\ms-aeronaves-main-main 27.04.2022\AeroNaves.webApi\obj\Debug\net5.0\AeroNaves.webApi.AssemblyInfoInputs.cache
+E:\Diplomado 2022\02 Diseño guiado por el Dominio y Arquitectura Limpia\05 Sesion 23.04.2022\Proyecto 25.04.2022\ms-aeronaves-main-main 27.04.2022\AeroNaves.webApi\obj\Debug\net5.0\AeroNaves.webApi.AssemblyInfo.cs
+E:\Diplomado 2022\02 Diseño guiado por el Dominio y Arquitectura Limpia\05 Sesion 23.04.2022\Proyecto 25.04.2022\ms-aeronaves-main-main 27.04.2022\AeroNaves.webApi\obj\Debug\net5.0\AeroNaves.webApi.csproj.CoreCompileInputs.cache
+E:\Diplomado 2022\02 Diseño guiado por el Dominio y Arquitectura Limpia\05 Sesion 23.04.2022\Proyecto 25.04.2022\ms-aeronaves-main-main 27.04.2022\AeroNaves.webApi\obj\Debug\net5.0\AeroNaves.webApi.MvcApplicationPartsAssemblyInfo.cs
+E:\Diplomado 2022\02 Diseño guiado por el Dominio y Arquitectura Limpia\05 Sesion 23.04.2022\Proyecto 25.04.2022\ms-aeronaves-main-main 27.04.2022\AeroNaves.webApi\obj\Debug\net5.0\AeroNaves.webApi.MvcApplicationPartsAssemblyInfo.cache
+E:\Diplomado 2022\02 Diseño guiado por el Dominio y Arquitectura Limpia\05 Sesion 23.04.2022\Proyecto 25.04.2022\ms-aeronaves-main-main 27.04.2022\AeroNaves.webApi\obj\Debug\net5.0\scopedcss\bundle\AeroNaves.webApi.styles.css
+E:\Diplomado 2022\02 Diseño guiado por el Dominio y Arquitectura Limpia\05 Sesion 23.04.2022\Proyecto 25.04.2022\ms-aeronaves-main-main 27.04.2022\AeroNaves.webApi\obj\Debug\net5.0\staticwebassets\AeroNaves.webApi.StaticWebAssets.Manifest.cache
+E:\Diplomado 2022\02 Diseño guiado por el Dominio y Arquitectura Limpia\05 Sesion 23.04.2022\Proyecto 25.04.2022\ms-aeronaves-main-main 27.04.2022\AeroNaves.webApi\obj\Debug\net5.0\AeroNaves.webApi.RazorTargetAssemblyInfo.cache
+E:\Diplomado 2022\02 Diseño guiado por el Dominio y Arquitectura Limpia\05 Sesion 23.04.2022\Proyecto 25.04.2022\ms-aeronaves-main-main 27.04.2022\AeroNaves.webApi\obj\Debug\net5.0\AeroNaves.webApi.csproj.CopyComplete
+E:\Diplomado 2022\02 Diseño guiado por el Dominio y Arquitectura Limpia\05 Sesion 23.04.2022\Proyecto 25.04.2022\ms-aeronaves-main-main 27.04.2022\AeroNaves.webApi\obj\Debug\net5.0\AeroNaves.webApi.dll
+E:\Diplomado 2022\02 Diseño guiado por el Dominio y Arquitectura Limpia\05 Sesion 23.04.2022\Proyecto 25.04.2022\ms-aeronaves-main-main 27.04.2022\AeroNaves.webApi\obj\Debug\net5.0\refint\AeroNaves.webApi.dll
+E:\Diplomado 2022\02 Diseño guiado por el Dominio y Arquitectura Limpia\05 Sesion 23.04.2022\Proyecto 25.04.2022\ms-aeronaves-main-main 27.04.2022\AeroNaves.webApi\obj\Debug\net5.0\AeroNaves.webApi.pdb
+E:\Diplomado 2022\02 Diseño guiado por el Dominio y Arquitectura Limpia\05 Sesion 23.04.2022\Proyecto 25.04.2022\ms-aeronaves-main-main 27.04.2022\AeroNaves.webApi\obj\Debug\net5.0\AeroNaves.webApi.genruntimeconfig.cache
+E:\Diplomado 2022\02 Diseño guiado por el Dominio y Arquitectura Limpia\05 Sesion 23.04.2022\Proyecto 25.04.2022\ms-aeronaves-main-main 27.04.2022\AeroNaves.webApi\obj\Debug\net5.0\ref\AeroNaves.webApi.dll
+E:\Diplomado 2022\02 Diseño guiado por el Dominio y Arquitectura Limpia\05 Sesion 23.04.2022\Proyecto 25.04.2022\ms-aeronaves-main-main 27.04.2022 ULTIMO\AeroNaves.webApi\obj\Debug\net5.0\AeroNaves.webApi.csproj.AssemblyReference.cache
+E:\Diplomado 2022\02 Diseño guiado por el Dominio y Arquitectura Limpia\05 Sesion 23.04.2022\Proyecto 25.04.2022\ms-aeronaves-main-main 27.04.2022 ULTIMO\AeroNaves.webApi\obj\Debug\net5.0\AeroNaves.webApi.GeneratedMSBuildEditorConfig.editorconfig
+E:\Diplomado 2022\02 Diseño guiado por el Dominio y Arquitectura Limpia\05 Sesion 23.04.2022\Proyecto 25.04.2022\ms-aeronaves-main-main 27.04.2022 ULTIMO\AeroNaves.webApi\obj\Debug\net5.0\AeroNaves.webApi.AssemblyInfoInputs.cache
+E:\Diplomado 2022\02 Diseño guiado por el Dominio y Arquitectura Limpia\05 Sesion 23.04.2022\Proyecto 25.04.2022\ms-aeronaves-main-main 27.04.2022 ULTIMO\AeroNaves.webApi\obj\Debug\net5.0\AeroNaves.webApi.AssemblyInfo.cs
+E:\Diplomado 2022\02 Diseño guiado por el Dominio y Arquitectura Limpia\05 Sesion 23.04.2022\Proyecto 25.04.2022\ms-aeronaves-main-main 27.04.2022 ULTIMO\AeroNaves.webApi\obj\Debug\net5.0\AeroNaves.webApi.csproj.CoreCompileInputs.cache
+E:\Diplomado 2022\02 Diseño guiado por el Dominio y Arquitectura Limpia\05 Sesion 23.04.2022\Proyecto 25.04.2022\ms-aeronaves-main-main 27.04.2022 ULTIMO\AeroNaves.webApi\obj\Debug\net5.0\AeroNaves.webApi.MvcApplicationPartsAssemblyInfo.cs
+E:\Diplomado 2022\02 Diseño guiado por el Dominio y Arquitectura Limpia\05 Sesion 23.04.2022\Proyecto 25.04.2022\ms-aeronaves-main-main 27.04.2022 ULTIMO\AeroNaves.webApi\obj\Debug\net5.0\AeroNaves.webApi.MvcApplicationPartsAssemblyInfo.cache
+E:\Diplomado 2022\02 Diseño guiado por el Dominio y Arquitectura Limpia\05 Sesion 23.04.2022\Proyecto 25.04.2022\ms-aeronaves-main-main 27.04.2022 ULTIMO\AeroNaves.webApi\obj\Debug\net5.0\AeroNaves.webApi.dll
+E:\Diplomado 2022\02 Diseño guiado por el Dominio y Arquitectura Limpia\05 Sesion 23.04.2022\Proyecto 25.04.2022\ms-aeronaves-main-main 27.04.2022 ULTIMO\AeroNaves.webApi\obj\Debug\net5.0\refint\AeroNaves.webApi.dll
+E:\Diplomado 2022\02 Diseño guiado por el Dominio y Arquitectura Limpia\05 Sesion 23.04.2022\Proyecto 25.04.2022\ms-aeronaves-main-main 27.04.2022 ULTIMO\AeroNaves.webApi\obj\Debug\net5.0\AeroNaves.webApi.pdb
+C:\Users\Jose Luis\Downloads\ms-aeronaves-main-main 27.04.2022 ULTIMO\AeroNaves.webApi\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Jose Luis\Downloads\ms-aeronaves-main-main 27.04.2022 ULTIMO\AeroNaves.webApi\bin\Debug\net5.0\appsettings.json
+C:\Users\Jose Luis\Downloads\ms-aeronaves-main-main 27.04.2022 ULTIMO\AeroNaves.webApi\bin\Debug\net5.0\AeroNaves.webApi.exe
+C:\Users\Jose Luis\Downloads\ms-aeronaves-main-main 27.04.2022 ULTIMO\AeroNaves.webApi\bin\Debug\net5.0\AeroNaves.webApi.deps.json
+C:\Users\Jose Luis\Downloads\ms-aeronaves-main-main 27.04.2022 ULTIMO\AeroNaves.webApi\bin\Debug\net5.0\AeroNaves.webApi.runtimeconfig.json
+C:\Users\Jose Luis\Downloads\ms-aeronaves-main-main 27.04.2022 ULTIMO\AeroNaves.webApi\bin\Debug\net5.0\AeroNaves.webApi.runtimeconfig.dev.json
+C:\Users\Jose Luis\Downloads\ms-aeronaves-main-main 27.04.2022 ULTIMO\AeroNaves.webApi\bin\Debug\net5.0\AeroNaves.webApi.dll
+C:\Users\Jose Luis\Downloads\ms-aeronaves-main-main 27.04.2022 ULTIMO\AeroNaves.webApi\bin\Debug\net5.0\AeroNaves.webApi.pdb
+C:\Users\Jose Luis\Downloads\ms-aeronaves-main-main 27.04.2022 ULTIMO\AeroNaves.webApi\bin\Debug\net5.0\Humanizer.dll
+C:\Users\Jose Luis\Downloads\ms-aeronaves-main-main 27.04.2022 ULTIMO\AeroNaves.webApi\bin\Debug\net5.0\MediatR.dll
+C:\Users\Jose Luis\Downloads\ms-aeronaves-main-main 27.04.2022 ULTIMO\AeroNaves.webApi\bin\Debug\net5.0\MediatR.Contracts.dll
+C:\Users\Jose Luis\Downloads\ms-aeronaves-main-main 27.04.2022 ULTIMO\AeroNaves.webApi\bin\Debug\net5.0\MediatR.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\Jose Luis\Downloads\ms-aeronaves-main-main 27.04.2022 ULTIMO\AeroNaves.webApi\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\Jose Luis\Downloads\ms-aeronaves-main-main 27.04.2022 ULTIMO\AeroNaves.webApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Jose Luis\Downloads\ms-aeronaves-main-main 27.04.2022 ULTIMO\AeroNaves.webApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Jose Luis\Downloads\ms-aeronaves-main-main 27.04.2022 ULTIMO\AeroNaves.webApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Jose Luis\Downloads\ms-aeronaves-main-main 27.04.2022 ULTIMO\AeroNaves.webApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Jose Luis\Downloads\ms-aeronaves-main-main 27.04.2022 ULTIMO\AeroNaves.webApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Jose Luis\Downloads\ms-aeronaves-main-main 27.04.2022 ULTIMO\AeroNaves.webApi\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Jose Luis\Downloads\ms-aeronaves-main-main 27.04.2022 ULTIMO\AeroNaves.webApi\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Jose Luis\Downloads\ms-aeronaves-main-main 27.04.2022 ULTIMO\AeroNaves.webApi\bin\Debug\net5.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Jose Luis\Downloads\ms-aeronaves-main-main 27.04.2022 ULTIMO\AeroNaves.webApi\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\Jose Luis\Downloads\ms-aeronaves-main-main 27.04.2022 ULTIMO\AeroNaves.webApi\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Jose Luis\Downloads\ms-aeronaves-main-main 27.04.2022 ULTIMO\AeroNaves.webApi\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Jose Luis\Downloads\ms-aeronaves-main-main 27.04.2022 ULTIMO\AeroNaves.webApi\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Jose Luis\Downloads\ms-aeronaves-main-main 27.04.2022 ULTIMO\AeroNaves.webApi\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Jose Luis\Downloads\ms-aeronaves-main-main 27.04.2022 ULTIMO\AeroNaves.webApi\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Jose Luis\Downloads\ms-aeronaves-main-main 27.04.2022 ULTIMO\AeroNaves.webApi\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\Jose Luis\Downloads\ms-aeronaves-main-main 27.04.2022 ULTIMO\AeroNaves.webApi\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Jose Luis\Downloads\ms-aeronaves-main-main 27.04.2022 ULTIMO\AeroNaves.webApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Jose Luis\Downloads\ms-aeronaves-main-main 27.04.2022 ULTIMO\AeroNaves.webApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Jose Luis\Downloads\ms-aeronaves-main-main 27.04.2022 ULTIMO\AeroNaves.webApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Jose Luis\Downloads\ms-aeronaves-main-main 27.04.2022 ULTIMO\AeroNaves.webApi\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Jose Luis\Downloads\ms-aeronaves-main-main 27.04.2022 ULTIMO\AeroNaves.webApi\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Jose Luis\Downloads\ms-aeronaves-main-main 27.04.2022 ULTIMO\AeroNaves.webApi\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Jose Luis\Downloads\ms-aeronaves-main-main 27.04.2022 ULTIMO\AeroNaves.webApi\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\Jose Luis\Downloads\ms-aeronaves-main-main 27.04.2022 ULTIMO\AeroNaves.webApi\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Jose Luis\Downloads\ms-aeronaves-main-main 27.04.2022 ULTIMO\AeroNaves.webApi\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Jose Luis\Downloads\ms-aeronaves-main-main 27.04.2022 ULTIMO\AeroNaves.webApi\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Jose Luis\Downloads\ms-aeronaves-main-main 27.04.2022 ULTIMO\AeroNaves.webApi\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Jose Luis\Downloads\ms-aeronaves-main-main 27.04.2022 ULTIMO\AeroNaves.webApi\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Jose Luis\Downloads\ms-aeronaves-main-main 27.04.2022 ULTIMO\AeroNaves.webApi\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Jose Luis\Downloads\ms-aeronaves-main-main 27.04.2022 ULTIMO\AeroNaves.webApi\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Jose Luis\Downloads\ms-aeronaves-main-main 27.04.2022 ULTIMO\AeroNaves.webApi\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Jose Luis\Downloads\ms-aeronaves-main-main 27.04.2022 ULTIMO\AeroNaves.webApi\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Jose Luis\Downloads\ms-aeronaves-main-main 27.04.2022 ULTIMO\AeroNaves.webApi\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Jose Luis\Downloads\ms-aeronaves-main-main 27.04.2022 ULTIMO\AeroNaves.webApi\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Jose Luis\Downloads\ms-aeronaves-main-main 27.04.2022 ULTIMO\AeroNaves.webApi\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Jose Luis\Downloads\ms-aeronaves-main-main 27.04.2022 ULTIMO\AeroNaves.webApi\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Jose Luis\Downloads\ms-aeronaves-main-main 27.04.2022 ULTIMO\AeroNaves.webApi\bin\Debug\net5.0\Aeronave.Infraestructure.dll
+C:\Users\Jose Luis\Downloads\ms-aeronaves-main-main 27.04.2022 ULTIMO\AeroNaves.webApi\bin\Debug\net5.0\Aeronaves.Aplication.dll
+C:\Users\Jose Luis\Downloads\ms-aeronaves-main-main 27.04.2022 ULTIMO\AeroNaves.webApi\bin\Debug\net5.0\Aeronaves.Domain.dll
+C:\Users\Jose Luis\Downloads\ms-aeronaves-main-main 27.04.2022 ULTIMO\AeroNaves.webApi\bin\Debug\net5.0\ShareKernel.dll
+C:\Users\Jose Luis\Downloads\ms-aeronaves-main-main 27.04.2022 ULTIMO\AeroNaves.webApi\bin\Debug\net5.0\Aeronave.Infraestructure.pdb
+C:\Users\Jose Luis\Downloads\ms-aeronaves-main-main 27.04.2022 ULTIMO\AeroNaves.webApi\bin\Debug\net5.0\Aeronaves.Aplication.pdb
+C:\Users\Jose Luis\Downloads\ms-aeronaves-main-main 27.04.2022 ULTIMO\AeroNaves.webApi\bin\Debug\net5.0\Aeronaves.Domain.pdb
+C:\Users\Jose Luis\Downloads\ms-aeronaves-main-main 27.04.2022 ULTIMO\AeroNaves.webApi\bin\Debug\net5.0\ShareKernel.pdb
+C:\Users\Jose Luis\Downloads\ms-aeronaves-main-main 27.04.2022 ULTIMO\AeroNaves.webApi\obj\Debug\net5.0\AeroNaves.webApi.csproj.AssemblyReference.cache
+C:\Users\Jose Luis\Downloads\ms-aeronaves-main-main 27.04.2022 ULTIMO\AeroNaves.webApi\obj\Debug\net5.0\AeroNaves.webApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jose Luis\Downloads\ms-aeronaves-main-main 27.04.2022 ULTIMO\AeroNaves.webApi\obj\Debug\net5.0\AeroNaves.webApi.AssemblyInfoInputs.cache
+C:\Users\Jose Luis\Downloads\ms-aeronaves-main-main 27.04.2022 ULTIMO\AeroNaves.webApi\obj\Debug\net5.0\AeroNaves.webApi.AssemblyInfo.cs
+C:\Users\Jose Luis\Downloads\ms-aeronaves-main-main 27.04.2022 ULTIMO\AeroNaves.webApi\obj\Debug\net5.0\AeroNaves.webApi.csproj.CoreCompileInputs.cache
+C:\Users\Jose Luis\Downloads\ms-aeronaves-main-main 27.04.2022 ULTIMO\AeroNaves.webApi\obj\Debug\net5.0\AeroNaves.webApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Jose Luis\Downloads\ms-aeronaves-main-main 27.04.2022 ULTIMO\AeroNaves.webApi\obj\Debug\net5.0\AeroNaves.webApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Jose Luis\Downloads\ms-aeronaves-main-main 27.04.2022 ULTIMO\AeroNaves.webApi\obj\Debug\net5.0\scopedcss\bundle\AeroNaves.webApi.styles.css
+C:\Users\Jose Luis\Downloads\ms-aeronaves-main-main 27.04.2022 ULTIMO\AeroNaves.webApi\obj\Debug\net5.0\staticwebassets\AeroNaves.webApi.StaticWebAssets.Manifest.cache
+C:\Users\Jose Luis\Downloads\ms-aeronaves-main-main 27.04.2022 ULTIMO\AeroNaves.webApi\obj\Debug\net5.0\AeroNaves.webApi.RazorTargetAssemblyInfo.cache
+C:\Users\Jose Luis\Downloads\ms-aeronaves-main-main 27.04.2022 ULTIMO\AeroNaves.webApi\obj\Debug\net5.0\AeroNaves.webApi.csproj.CopyComplete
+C:\Users\Jose Luis\Downloads\ms-aeronaves-main-main 27.04.2022 ULTIMO\AeroNaves.webApi\obj\Debug\net5.0\AeroNaves.webApi.dll
+C:\Users\Jose Luis\Downloads\ms-aeronaves-main-main 27.04.2022 ULTIMO\AeroNaves.webApi\obj\Debug\net5.0\refint\AeroNaves.webApi.dll
+C:\Users\Jose Luis\Downloads\ms-aeronaves-main-main 27.04.2022 ULTIMO\AeroNaves.webApi\obj\Debug\net5.0\AeroNaves.webApi.pdb
+C:\Users\Jose Luis\Downloads\ms-aeronaves-main-main 27.04.2022 ULTIMO\AeroNaves.webApi\obj\Debug\net5.0\AeroNaves.webApi.genruntimeconfig.cache
+C:\Users\Jose Luis\Downloads\ms-aeronaves-main-main 27.04.2022 ULTIMO\AeroNaves.webApi\obj\Debug\net5.0\ref\AeroNaves.webApi.dll
+C:\Users\Jose Luis\Downloads\ProyectoAeronave\AeroNaves.webApi\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Jose Luis\Downloads\ProyectoAeronave\AeroNaves.webApi\bin\Debug\net5.0\appsettings.json
+C:\Users\Jose Luis\Downloads\ProyectoAeronave\AeroNaves.webApi\bin\Debug\net5.0\AeroNaves.webApi.exe
+C:\Users\Jose Luis\Downloads\ProyectoAeronave\AeroNaves.webApi\bin\Debug\net5.0\AeroNaves.webApi.deps.json
+C:\Users\Jose Luis\Downloads\ProyectoAeronave\AeroNaves.webApi\bin\Debug\net5.0\AeroNaves.webApi.runtimeconfig.json
+C:\Users\Jose Luis\Downloads\ProyectoAeronave\AeroNaves.webApi\bin\Debug\net5.0\AeroNaves.webApi.runtimeconfig.dev.json
+C:\Users\Jose Luis\Downloads\ProyectoAeronave\AeroNaves.webApi\bin\Debug\net5.0\AeroNaves.webApi.dll
+C:\Users\Jose Luis\Downloads\ProyectoAeronave\AeroNaves.webApi\bin\Debug\net5.0\AeroNaves.webApi.pdb
+C:\Users\Jose Luis\Downloads\ProyectoAeronave\AeroNaves.webApi\bin\Debug\net5.0\Humanizer.dll
+C:\Users\Jose Luis\Downloads\ProyectoAeronave\AeroNaves.webApi\bin\Debug\net5.0\MediatR.dll
+C:\Users\Jose Luis\Downloads\ProyectoAeronave\AeroNaves.webApi\bin\Debug\net5.0\MediatR.Contracts.dll
+C:\Users\Jose Luis\Downloads\ProyectoAeronave\AeroNaves.webApi\bin\Debug\net5.0\MediatR.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\Jose Luis\Downloads\ProyectoAeronave\AeroNaves.webApi\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\Jose Luis\Downloads\ProyectoAeronave\AeroNaves.webApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Jose Luis\Downloads\ProyectoAeronave\AeroNaves.webApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Jose Luis\Downloads\ProyectoAeronave\AeroNaves.webApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Jose Luis\Downloads\ProyectoAeronave\AeroNaves.webApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Jose Luis\Downloads\ProyectoAeronave\AeroNaves.webApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Jose Luis\Downloads\ProyectoAeronave\AeroNaves.webApi\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Jose Luis\Downloads\ProyectoAeronave\AeroNaves.webApi\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Jose Luis\Downloads\ProyectoAeronave\AeroNaves.webApi\bin\Debug\net5.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Jose Luis\Downloads\ProyectoAeronave\AeroNaves.webApi\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\Jose Luis\Downloads\ProyectoAeronave\AeroNaves.webApi\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Jose Luis\Downloads\ProyectoAeronave\AeroNaves.webApi\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Jose Luis\Downloads\ProyectoAeronave\AeroNaves.webApi\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Jose Luis\Downloads\ProyectoAeronave\AeroNaves.webApi\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Jose Luis\Downloads\ProyectoAeronave\AeroNaves.webApi\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Jose Luis\Downloads\ProyectoAeronave\AeroNaves.webApi\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\Jose Luis\Downloads\ProyectoAeronave\AeroNaves.webApi\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Jose Luis\Downloads\ProyectoAeronave\AeroNaves.webApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Jose Luis\Downloads\ProyectoAeronave\AeroNaves.webApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Jose Luis\Downloads\ProyectoAeronave\AeroNaves.webApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Jose Luis\Downloads\ProyectoAeronave\AeroNaves.webApi\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Jose Luis\Downloads\ProyectoAeronave\AeroNaves.webApi\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Jose Luis\Downloads\ProyectoAeronave\AeroNaves.webApi\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Jose Luis\Downloads\ProyectoAeronave\AeroNaves.webApi\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\Jose Luis\Downloads\ProyectoAeronave\AeroNaves.webApi\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Jose Luis\Downloads\ProyectoAeronave\AeroNaves.webApi\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Jose Luis\Downloads\ProyectoAeronave\AeroNaves.webApi\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Jose Luis\Downloads\ProyectoAeronave\AeroNaves.webApi\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Jose Luis\Downloads\ProyectoAeronave\AeroNaves.webApi\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Jose Luis\Downloads\ProyectoAeronave\AeroNaves.webApi\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Jose Luis\Downloads\ProyectoAeronave\AeroNaves.webApi\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Jose Luis\Downloads\ProyectoAeronave\AeroNaves.webApi\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Jose Luis\Downloads\ProyectoAeronave\AeroNaves.webApi\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Jose Luis\Downloads\ProyectoAeronave\AeroNaves.webApi\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Jose Luis\Downloads\ProyectoAeronave\AeroNaves.webApi\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Jose Luis\Downloads\ProyectoAeronave\AeroNaves.webApi\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Jose Luis\Downloads\ProyectoAeronave\AeroNaves.webApi\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Jose Luis\Downloads\ProyectoAeronave\AeroNaves.webApi\bin\Debug\net5.0\Aeronave.Infraestructure.dll
+C:\Users\Jose Luis\Downloads\ProyectoAeronave\AeroNaves.webApi\bin\Debug\net5.0\Aeronaves.Aplication.dll
+C:\Users\Jose Luis\Downloads\ProyectoAeronave\AeroNaves.webApi\bin\Debug\net5.0\Aeronaves.Domain.dll
+C:\Users\Jose Luis\Downloads\ProyectoAeronave\AeroNaves.webApi\bin\Debug\net5.0\ShareKernel.dll
+C:\Users\Jose Luis\Downloads\ProyectoAeronave\AeroNaves.webApi\bin\Debug\net5.0\Aeronave.Infraestructure.pdb
+C:\Users\Jose Luis\Downloads\ProyectoAeronave\AeroNaves.webApi\bin\Debug\net5.0\Aeronaves.Aplication.pdb
+C:\Users\Jose Luis\Downloads\ProyectoAeronave\AeroNaves.webApi\bin\Debug\net5.0\Aeronaves.Domain.pdb
+C:\Users\Jose Luis\Downloads\ProyectoAeronave\AeroNaves.webApi\bin\Debug\net5.0\ShareKernel.pdb
+C:\Users\Jose Luis\Downloads\ProyectoAeronave\AeroNaves.webApi\obj\Debug\net5.0\AeroNaves.webApi.csproj.AssemblyReference.cache
+C:\Users\Jose Luis\Downloads\ProyectoAeronave\AeroNaves.webApi\obj\Debug\net5.0\AeroNaves.webApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jose Luis\Downloads\ProyectoAeronave\AeroNaves.webApi\obj\Debug\net5.0\AeroNaves.webApi.AssemblyInfoInputs.cache
+C:\Users\Jose Luis\Downloads\ProyectoAeronave\AeroNaves.webApi\obj\Debug\net5.0\AeroNaves.webApi.AssemblyInfo.cs
+C:\Users\Jose Luis\Downloads\ProyectoAeronave\AeroNaves.webApi\obj\Debug\net5.0\AeroNaves.webApi.csproj.CoreCompileInputs.cache
+C:\Users\Jose Luis\Downloads\ProyectoAeronave\AeroNaves.webApi\obj\Debug\net5.0\AeroNaves.webApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Jose Luis\Downloads\ProyectoAeronave\AeroNaves.webApi\obj\Debug\net5.0\AeroNaves.webApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Jose Luis\Downloads\ProyectoAeronave\AeroNaves.webApi\obj\Debug\net5.0\scopedcss\bundle\AeroNaves.webApi.styles.css
+C:\Users\Jose Luis\Downloads\ProyectoAeronave\AeroNaves.webApi\obj\Debug\net5.0\staticwebassets\AeroNaves.webApi.StaticWebAssets.Manifest.cache
+C:\Users\Jose Luis\Downloads\ProyectoAeronave\AeroNaves.webApi\obj\Debug\net5.0\AeroNaves.webApi.RazorTargetAssemblyInfo.cache
+C:\Users\Jose Luis\Downloads\ProyectoAeronave\AeroNaves.webApi\obj\Debug\net5.0\AeroNaves.webApi.csproj.CopyComplete
+C:\Users\Jose Luis\Downloads\ProyectoAeronave\AeroNaves.webApi\obj\Debug\net5.0\AeroNaves.webApi.dll
+C:\Users\Jose Luis\Downloads\ProyectoAeronave\AeroNaves.webApi\obj\Debug\net5.0\refint\AeroNaves.webApi.dll
+C:\Users\Jose Luis\Downloads\ProyectoAeronave\AeroNaves.webApi\obj\Debug\net5.0\AeroNaves.webApi.pdb
+C:\Users\Jose Luis\Downloads\ProyectoAeronave\AeroNaves.webApi\obj\Debug\net5.0\AeroNaves.webApi.genruntimeconfig.cache
+C:\Users\Jose Luis\Downloads\ProyectoAeronave\AeroNaves.webApi\obj\Debug\net5.0\ref\AeroNaves.webApi.dll

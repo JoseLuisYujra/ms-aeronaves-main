@@ -5,7 +5,7 @@ using Aeronaves.Aplication.UseCases.Command.Aeronaves.AsignarAeronave;
 using Aeronaves.Aplication.UseCases.Queries.Aeronaves.GetAeronaveById;
 using System;
 using System.Threading.Tasks;
-
+using Aeronaves.Aplication.UseCases.Queries.Aeronaves.SearchAeronave;
 
 namespace AeroNaves.webApi.Controllers
 {
@@ -20,6 +20,7 @@ namespace AeroNaves.webApi.Controllers
             _mediator = mediator;
         }
 
+   
         [HttpPost]
         public async Task<IActionResult> Create([FromBody] AsignarAeronaveCommand command)
         {
@@ -41,6 +42,18 @@ namespace AeroNaves.webApi.Controllers
                 return NotFound();
 
             return Ok(result);
+        }
+
+        [Route("search")]
+        [HttpPost]       
+        public async Task<IActionResult> Search([FromBody] SearchAeronaveQuery query)
+        {
+            var aeronaves = await _mediator.Send(query);
+
+            if (aeronaves == null)
+                return BadRequest();
+
+            return Ok(aeronaves);
         }
 
     }
