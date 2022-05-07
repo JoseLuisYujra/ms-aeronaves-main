@@ -34,13 +34,17 @@ namespace Aeronaves.Aplication.UseCases.Queries.Aeronaves.GetAeronaveById
 
                 result = new AeronaveDTO()
                 {
-                    IdAeronave  =objAeronave.IdAeronave,
+                    IdAeronave = objAeronave.IdAeronave,
+                    IdAeropuerto = objAeronave.IdAeropuerto,
+                    //IdControlAeronave = objAeronave.IdControlAeronave,
+                    //IdAsignacionAeronave =objAeronave.IdAsignacionAeronave,
                     CodAeronave = objAeronave.CodAeronave,
-                    Nroasientos = objAeronave.Nroasientos,
-                    EstadoFuncionalAeronave =objAeronave.EstadoFuncionalAeronave,
-                    Codvuelo = objAeronave.Codvuelo
-                };
+                    TotalNroAsientos = objAeronave.TotalNroAsientos,
+                    EstadoDisponibilidad = objAeronave.EstadoDisponibilidad,
+                    AeronaveControl = objAeronave.AeronaveControl                   
 
+                };
+                /*
                 foreach (var item in objAeronave.AeronaveControl)
                 {
                     result.AeronaveControl.Add(new ControlAeronaveDto()
@@ -51,13 +55,15 @@ namespace Aeronaves.Aplication.UseCases.Queries.Aeronaves.GetAeronaveById
                         CapacidadCarga = item.CapacidadCarga,
                         CapTanqueCombustible = item.CapTanqueCombustible,
                         AereopuertoEstacionamiento = item.AereopuertoEstacionamiento,
-                        EstadoFuncionalAeronave = item.EstadoFuncionalAeronave
+                        EstadoFuncionalAeronave = item.EstadoFuncionalAeronave,
+                        AsientosAsignados =item.AsientosAsignados
                     });
                 }
+                */
             }
             catch (Exception ex)
             {
-                _logger.LogError(ex, "Error al obtener Asignacion con id: { PedidoId }", request.Id);
+                _logger.LogError(ex, "Error al obtener asignacion con id: { IdAeronave }", request.Id);
             }
 
             return result;

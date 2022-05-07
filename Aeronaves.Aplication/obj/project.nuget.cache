@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "lfUn8KGLIjplWl5mogUvUfCIBs4dFkU/J17xOssbD9cUy1sgXWcyjCWCJSAmzfdeC0ng8GGawKKAYiKrbkT9DA==",
+  "dgSpecHash": "Huezu9V4q7nmbxTS7jCsUZD+aT5+IbKEQ+2B7z4WoNk8sR4mVC8Rwy4XgzJPV1c8YnCN+RtNu7YuawE0SsbwCg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Jose Luis\\Downloads\\ms-aeronaves-main-main 27.04.2022 ULTIMO\\Aeronaves.Aplication\\Aeronaves.Aplication.csproj",
+  "projectFilePath": "C:\\Users\\Jose Luis\\Downloads\\ms-aeronaves-main-main 27.04.2022 ULTIMO - copia (2)\\Aeronaves.Aplication\\Aeronaves.Aplication.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Jose Luis\\.nuget\\packages\\mediatr\\10.0.1\\mediatr.10.0.1.nupkg.sha512",
     "C:\\Users\\Jose Luis\\.nuget\\packages\\mediatr.contracts\\1.0.1\\mediatr.contracts.1.0.1.nupkg.sha512",
