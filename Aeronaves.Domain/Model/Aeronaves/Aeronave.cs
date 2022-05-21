@@ -44,7 +44,7 @@ namespace Aeronaves.Domain.Model.Aeronaves
         {
             Id = Guid.NewGuid();
             CodAeronave = codaeronave;
-            TotalNroAsientos = 30;
+            TotalNroAsientos = 50;
          }      
 
         public Aeronave(Guid idVuelo, int codaeronave)

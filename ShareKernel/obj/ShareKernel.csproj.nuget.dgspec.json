@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Jose Luis\\Downloads\\ProyectoAeronave\\ShareKernel\\ShareKernel.csproj": {}
+    "C:\\Users\\Jose Luis\\Documents\\GitHub\\ms-aeronaves-main\\ShareKernel\\ShareKernel.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Jose Luis\\Downloads\\ProyectoAeronave\\ShareKernel\\ShareKernel.csproj": {
+    "C:\\Users\\Jose Luis\\Documents\\GitHub\\ms-aeronaves-main\\ShareKernel\\ShareKernel.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Jose Luis\\Downloads\\ProyectoAeronave\\ShareKernel\\ShareKernel.csproj",
+        "projectUniqueName": "C:\\Users\\Jose Luis\\Documents\\GitHub\\ms-aeronaves-main\\ShareKernel\\ShareKernel.csproj",
         "projectName": "ShareKernel",
-        "projectPath": "C:\\Users\\Jose Luis\\Downloads\\ProyectoAeronave\\ShareKernel\\ShareKernel.csproj",
+        "projectPath": "C:\\Users\\Jose Luis\\Documents\\GitHub\\ms-aeronaves-main\\ShareKernel\\ShareKernel.csproj",
         "packagesPath": "C:\\Users\\Jose Luis\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Jose Luis\\Downloads\\ProyectoAeronave\\ShareKernel\\obj\\",
+        "outputPath": "C:\\Users\\Jose Luis\\Documents\\GitHub\\ms-aeronaves-main\\ShareKernel\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

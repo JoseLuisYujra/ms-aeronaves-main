@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "j3EYjHkC0CAB+ds+AK9/YgBV50q6jly5/wbVveP7XGLbiPejjaPkz4+dJIctgWSXEVCu3pjo2oS+Q2El6ANpRA==",
+  "dgSpecHash": "wD2T5qy6G2X8qW9k6hWVf55wSoTebqS2ruunbORiB+wZ4/n/5qj0Xh3dbXGA6klo3bwqXkRaPHneWWj7Ke8INA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Jose Luis\\Downloads\\ProyectoAeronave\\AeroNaves.ConsolaUI\\AeroNaves.ConsolaUI.csproj",
+  "projectFilePath": "C:\\Users\\Jose Luis\\Documents\\GitHub\\ms-aeronaves-main\\AeroNaves.ConsolaUI\\AeroNaves.ConsolaUI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Jose Luis\\.nuget\\packages\\mediatr\\10.0.1\\mediatr.10.0.1.nupkg.sha512",
     "C:\\Users\\Jose Luis\\.nuget\\packages\\mediatr.contracts\\1.0.1\\mediatr.contracts.1.0.1.nupkg.sha512"

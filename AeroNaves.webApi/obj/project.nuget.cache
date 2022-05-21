@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "5Mj2H8ah4UFx2X1v6WbTmNf6EgmbzSGLvbAj3P1g01NIbkD/g0PchSGo8KFPpitB9+LbJTDyRqxP0x0BJvHxTQ==",
+  "dgSpecHash": "oro6vNBjOQHuprzeyFu3FN48UqW/37W1ClkehDA6wBCIaypEDLwttQh8i3UGSHBrjG7liGi4+ZciJ2lywrtwuQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Jose Luis\\Downloads\\ProyectoAeronave\\AeroNaves.webApi\\AeroNaves.webApi.csproj",
+  "projectFilePath": "C:\\Users\\Jose Luis\\Documents\\GitHub\\ms-aeronaves-main\\AeroNaves.webApi\\AeroNaves.webApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Jose Luis\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Jose Luis\\.nuget\\packages\\mediatr\\10.0.1\\mediatr.10.0.1.nupkg.sha512",
