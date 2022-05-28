@@ -22,7 +22,7 @@ namespace Aeronaves.Domain.Model.Aeronaves
 
         private AsignacionAeronave() { }
 
-        internal AsignacionAeronave(Guid idAeronave, Guid idVuelo, int nroAsientosAeronave,string estadoAsignacion)
+        public AsignacionAeronave(Guid idAeronave, Guid idVuelo, int nroAsientosAeronave,string estadoAsignacion)
         {
             Id = Guid.NewGuid();
             IdAsignacionAeronave = Guid.NewGuid();

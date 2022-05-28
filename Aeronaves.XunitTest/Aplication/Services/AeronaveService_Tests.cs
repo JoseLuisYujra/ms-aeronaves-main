@@ -42,7 +42,7 @@ namespace Aeronaves.XunitTest.Aplication.Services
             else 
             {
                 Assert.NotEqual(expectedAsignacionAeronave, asignacionAeronave);
-            }        
+            }     
 
         }
     }
