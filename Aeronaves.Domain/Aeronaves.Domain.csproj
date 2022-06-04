@@ -9,6 +9,7 @@
   </ItemGroup>
 
   <ItemGroup>
+    <Folder Include="Model\Aeropuerto\" />
     <Folder Include="Model\Vuelo\" />
   </ItemGroup>
 

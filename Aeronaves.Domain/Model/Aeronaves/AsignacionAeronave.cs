@@ -10,7 +10,7 @@ using Aeronaves.Domain.ValueObjects;
 namespace Aeronaves.Domain.Model.Aeronaves
 {
 
-    public class AsignacionAeronave : AggregateRoot<Guid> //Entity<Guid>
+    public class AsignacionAeronave : AggregateRoot<Guid> // Entity<Guid>
     {
 
         public Guid IdAsignacionAeronave { get; private set; }

@@ -14,6 +14,7 @@ namespace Aeronaves.Domain.Model.Aeronaves
 
     public class Aeronave : AggregateRoot<Guid>
     {
+   
         public Guid IdAeronave { get; private set; }
 
         public int CodAeronave { get; private set; }
@@ -23,9 +24,8 @@ namespace Aeronaves.Domain.Model.Aeronaves
         public NroAsientosValue TotalNroAsientos { get; private set; }
 
         public AeronaveEstadoDisponibilidad EstadoDisponibilidad { get; private set; }
+                    
 
-
-      
         public ControlAeronave AeronaveControl { get; private set; }
 
 
