@@ -159,3 +159,5 @@ C:\Users\Jose Luis\Documents\GitHub\ms-aeronaves-main\Aeronaves.XunitTest\obj\De
 C:\Users\Jose Luis\Documents\GitHub\ms-aeronaves-main\Aeronaves.XunitTest\obj\Debug\net5.0\Aeronaves.XunitTest.pdb
 C:\Users\Jose Luis\Documents\GitHub\ms-aeronaves-main\Aeronaves.XunitTest\obj\Debug\net5.0\Aeronaves.XunitTest.genruntimeconfig.cache
 C:\Users\Jose Luis\Documents\GitHub\ms-aeronaves-main\Aeronaves.XunitTest\obj\Debug\net5.0\ref\Aeronaves.XunitTest.dll
+C:\Users\Jose Luis\Documents\GitHub\ms-aeronaves-main\Aeronaves.XunitTest\bin\Debug\net5.0\Castle.Core.dll
+C:\Users\Jose Luis\Documents\GitHub\ms-aeronaves-main\Aeronaves.XunitTest\bin\Debug\net5.0\Moq.dll
